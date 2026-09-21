@@ -8,6 +8,9 @@ I'm curious, competitive, and I like figuring out how things work. I tend to go 
 
 I'm always trying to get better at what I do, whether that's programming, problem solving, or just learning something new.
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/davidssien/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davidessien243@gmail.com) 
+
 ## Tech I use
 
 **Languages:**

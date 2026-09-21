@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**davidssien/davidssien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm David, a Computer Science student at the University of Houston.
 
-Here are some ideas to get you started:
+## Who I am
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm curious, competitive, and I like figuring out how things work. I tend to go down rabbit holes when something interests me, especially when I don't fully understand it yet.
+
+I'm always trying to get better at what I do, whether that's programming, problem solving, or just learning something new.
+
+## Tech I use
+
+**Languages:**
+C/C++, Rust, Python, JavaScript, Java
+
+**Tools & Technologies:**
+Git, GitHub, Linux, Make, CMake, SDL2, OpenGL, LLVM
+
+## Fun facts
+
+* ♟️ I play a lot of chess
+* 🎮 I grew up playing competitive games
+* 🧠 I enjoy difficult problems more than easy ones
+* 🖥️ I like understanding what's happening under the hood
+* 🌎 I grew up in Nigeria before moving to the U.S.

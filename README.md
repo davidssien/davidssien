@@ -1,3 +1,6 @@
+![banner](https://i.pinimg.com/1200x/5e/65/c5/5e65c556e00d929e9e28de268a1cce47.jpg)
+
+
 # Hi there 👋
 
 I'm David, a Computer Science student at the University of Houston.
